@@ -1,0 +1,46 @@
+[
+    {
+        "type": "dog",
+        "age": 10
+    },
+
+    {
+        "type": "dog",
+        "age": 1
+    },
+
+    {
+        "type": "dog",
+        "age": 1
+    },
+
+    {
+        "type": "cat",
+        "age": 8
+    },
+
+    {
+        "type": "cat",
+        "age": 4
+    },
+
+    {
+        "type": "cat",
+        "age": 2
+    },
+
+    {
+        "type": "dog",
+        "age": 12
+    },
+
+    {
+        "type": "dog",
+        "age": 12
+    },
+
+    {
+        "type": "bird",
+        "age": 4
+    }
+]
